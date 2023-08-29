@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    margin-bottom: 100;
+}
+.toppage{
+    margin-top: 0;
+    background-color: #91C8E4;   
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+
+.downpage{
+
+    background-color: #40F8FF;
+   
+}
+
+.cloud1{
+    height: 180px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 900px;
+}
+.mount{
+    height: 40%;
+    width: 60%;
+ 
+   
+}
+.cloud2{
+    height: 180px;
+    width: 250px;
+    margin-left: 200px;
+} 
+
+.setting{
+    width: 40%;
+    margin: 100px auto;
+    text-align: right;
+}
+
+.developing{
+    position: absolute;
+    right: 120px;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    padding-right: 90px;
+}
+
+.studying{
+    position: absolute;
+    left: 270px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(209, 207, 207);
+    border-width: 5px;
+    width: 5%;
+}
+
+.big{
+    
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 4rem;
+}
+
+.big1{
+   font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    color: #22A39F;
+}
+
+h2{
+    font-family: cursive;
+    color: #A0C3D2;
+}
+h3{
+    font-family: monospace;
+    color: #22A39F;
+    font-size: x-large;
+
+}
+
+h4{
+   color: #8294C4;
+   font-size: large;
+
+}
+.onlyh3{
+    color: #22A39F;
+}
+
+.line{
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:16px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 11px;
+	text-decoration:none;
+	text-shadow:0px 3px 15px #528ecc;
+   border-block: none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom{
+    height: 100px;
+    background-color: #22A39F;
+    text-decoration: none;
+    margin-bottom: auto;
+}

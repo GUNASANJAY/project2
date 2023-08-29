@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    margin-bottom: 50px ;
+    background-color: black;
+}
+.toppage{
+    
+    background-color: #91C8E4; 
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+
+.iam{
+    position: relative;
+    margin-top: 100px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    color:#FFFD8C ;
+}
+
+h2{
+    font-family: cursive;
+    color: #FFFD8C ;
+}
+
+h3{
+    font-family: 'MonteCarlo', cursive;
+    color: #F3FDE8 ;
+}
+
+h4{
+    color: white;
+}
+.developing{
+    position: absolute;
+    right: 120px;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    padding-right: 90px;
+}
+
+.studying{
+    position: absolute;
+    left: 270px;
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    
+}
+.bottom{
+    position: relative;
+    margin-top: 200px;
+    background-color: #22A39F;
+    text-decoration: none;
+}
